@@ -11,6 +11,9 @@ Gem::Specification.new 'birth', version do |g|
   g.homepage    = 'https://git.rawley.xyz/?p=rf/birth;a=summary'
   g.license     = 'ISC'
 
+  g.bin_dir     = 'bin'
+  g.executable  = 'birth'
+
   g.required_ruby_version = '>= 2.6.0'
 
   g.add_dependency 'optparse'

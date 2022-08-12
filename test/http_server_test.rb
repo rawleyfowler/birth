@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require 'birth'
+require '../lib/birth'
 
 TEST_ROUTES = {
   :/ => {
