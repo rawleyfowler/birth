@@ -1,0 +1,16 @@
+PATH
+  remote: ..
+  specs:
+    birth (0.0.1)
+
+GEM
+  specs:
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  birth!
+
+BUNDLED WITH
+   2.3.20
